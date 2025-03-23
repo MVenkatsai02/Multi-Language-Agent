@@ -1,0 +1,14 @@
+streamlit
+agno
+duckduckgo-search
+groq
+arxiv
+numpy
+pandas
+requests
+pypdf
+google
+agno
+google-generativeai
+textwrap3
+python-dotenv
